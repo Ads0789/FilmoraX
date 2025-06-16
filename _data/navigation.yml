@@ -1,0 +1,9 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Reviews"
+    url: /reviews/
+  - title: "OTT News"
+    url: /news/
+  - title: "Where to Watch"
+    url: /guides/
